@@ -1,2 +1,2 @@
 # Neuro-Evolution-of-Augmenting-Topologies
-An implementation of the N.E.A.T., Neuro Evolution of Augmenting Topologies, algorithm.
+An implementation of the N.E.A.T., Neuro Evolution of Augmenting Topologies, algorithm. Tested using the XOR problem and managing to solve while achieving the least amount of nodes and connections required. Implemented by following the paper Evolving Nerual Networks through Augmented Topologies by Kenneth O. Stanley & Risto Miikkulainen, link:http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf.
